@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-The **Profit & Loss Calculator** is a web app designed for day traders track their trading performance. It is built using **React.js**, **Node.js**, and **MySQL**. The tool enables traders to log their trades, calculate profits and losses, and visualize their data. 
+The **Profit & Loss Calculator** is a web app designed for day traders track their trading performance. It is built using **React.js**, **Node.js**, and **MySQL**. The tool enables traders to log their trades, calculate profits and losses, and visualise their data. 
 
 ### Key Features:
 - **Trade Logging:** Record buy/sell orders with details like date, asset, quantity, and price.
