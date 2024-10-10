@@ -9,4 +9,4 @@ The **Profit & Loss Calculator** is a web app designed for day traders track the
 - **Data Syncing with APIs:** Integrates with finance APIs for real-time asset prices to ensure accurate profit and loss calculations.
 - **MySQL Database:** Storage of trade data with querying of historical performance.
 
-> **Note:** This project is in the **very early stages of development**. More features and improvements will be added over time as the project evolves.
+> **Note:** This project is in the **very early stages of development**. More features will be implemented over time.
